@@ -1,0 +1,8 @@
+[submodule "lib/MVolume"]
+	path = lib/MVolume
+	url = https://github.com/hofmannu/MVolume.git
+	update = merge
+[submodule "lib/pdprocessor"]
+	path = lib/pdprocessor
+	url = git@gitlab.ethz.ch:razanskylab/pdprocessor.git
+	update = merge
